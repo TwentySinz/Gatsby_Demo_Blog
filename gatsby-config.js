@@ -62,6 +62,7 @@ module.exports = {
         printRejected: false,
         develop: false,
         tailwind: true,
+        ignore: ['katex/dist/katex.min.css'],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
